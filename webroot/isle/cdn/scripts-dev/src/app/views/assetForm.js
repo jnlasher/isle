@@ -325,7 +325,7 @@ define(["jquery", "../Util", "../NodeManager"], function($, Util, NodeManager) {
           else {
             if($('html').attr('data-role') > ISLE_VIEWER) {
               var restrictBtn = '';
-              if($('html').attr('data-role') >= ISLE_CONTRIBUTOR) {
+              if($('html').attr('data-role') >= ISLE_ADMIN) {
                 restrictBtn = ' <button type="button" name="restrict" data-asset="' + $('#hidId').val() + '" value="restrict" id="restrict" class="btn"><i class="icon-remove-circle"></i> Restrict</button>';
               }
 
