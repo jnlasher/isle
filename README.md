@@ -1,7 +1,8 @@
-ISLE - Inventory System for Lab Equipment
-==========
 This has been updated from the master branch to support a default login and registration page. It no longers requires IT 
 involvement to get passwords for the server. For a full list of changes, view the CHANGELOG.md
+
+ISLE - Inventory System for Lab Equipment
+==========
 
 
 ![Demo](https://cloud.githubusercontent.com/assets/1322063/14293284/efe856d2-fb39-11e5-9765-7605555b06f8.gif)
